@@ -109,3 +109,7 @@ Seasoned software engineer since 2015. Experienced in diverse frameworks and lan
 <a href="http://www.github.com/JuankFullStak"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JuankFullStak&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/JuankFullStak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuankFullStak&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JuankFullStak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://komarev.com/ghpvc/?username=JuankFullStak&style=flat-square&color=blue" alt="View Counter"/>
