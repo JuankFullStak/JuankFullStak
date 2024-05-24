@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and FullStack Developer
 -----------------------------------------
 
-Seasoned software engineer since 2015. Experienced in diverse frameworks and languages. Currently building Aureio (aureio.com), a startup symbolizing perfection through the golden ratio and quality craftsmanship. Passionate about creating well-designed software solutions that combine technical excellence with aesthetic elegance. Open to collaborations on innovative projects."
+Seasoned software engineer since 2015. Experienced in diverse frameworks and languages. Currently building Aureio (aureio.com), a startup symbolizing perfection through the golden ratio and quality craftsmanship. Passionate about creating well-designed software solutions that combine technical excellence with aesthetic elegance. Open to collaborations on innovative projects.
 
 *   🌍  I'm based in Havana, Cuba
-*   🖥️  See my portfolio at [aureio.com](http://aureio.com)
+*   🖥️  See my Startup at [aureio.com](http://aureio.com)
 *   ✉️  You can contact me at [juancarloscfg2013@hotmail.com](mailto:juancarloscfg2013@hotmail.com)
 *   🧠  I'm learning KMP
 
@@ -18,7 +18,9 @@ Seasoned software engineer since 2015. Experienced in diverse frameworks and lan
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/expo-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
